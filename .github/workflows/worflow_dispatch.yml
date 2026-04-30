@@ -17,4 +17,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mostrar nivel seleccionado
-        run: echo "Nivel seleccionado: ${{ github.event.inputs.nivel }}."
+        run: echo "Nivel seleccionado- ${{ github.event.inputs.nivel }}."
