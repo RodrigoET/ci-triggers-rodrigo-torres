@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mensaje comentario PR
-        run: echo "Comentario en PR detectado"
+        run: echo "Comentario en PR detectado."
