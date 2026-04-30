@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mensaje PR
-        run: echo "Pull request detectado"
+        run: echo "Pull request detectado."
